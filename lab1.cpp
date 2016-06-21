@@ -17,7 +17,8 @@ void multiplicacion(int A[tam][tam],int B[tam][tam]){
 	}
 }
 
-//en construccion
+//en construccion por ahora
+
 void multiplicacion2(int A[tam][tam],int B[tam][tam]){
 	int C[tam][tam];
 	C[0][0]=0;
